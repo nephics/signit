@@ -10,8 +10,7 @@ The algorithm is the same as the one used for authenticating AWS requests (`AWS 
 Example usage
 -------------
 
-Here is an example of
-::
+Here is an example of creating a hexdigest signature from signing two strings with a secret key::
 
   import signit
 
