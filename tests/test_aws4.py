@@ -4,7 +4,7 @@ See:
    http://docs.aws.amazon.com/AmazonS3/latest/API/sigv4-query-string-auth.html
 
 License: MIT License
-Copyright (c) 2015 Jacob Sondergaard
+Copyright (c) 2015-2017 Nephics AB
 """
 
 from __future__ import print_function

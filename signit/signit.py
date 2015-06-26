@@ -1,7 +1,7 @@
 """Simple cryptographically signing and signature verification using HMAC-256
 
 License: MIT License
-Copyright (c) 2015 Jacob Sondergaard
+Copyright (c) 2015-2017 Nephics AB
 """
 
 import base64
